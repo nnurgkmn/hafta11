@@ -40,7 +40,7 @@
         self.printSolution(dist)
 
  
-
+#first one we did
 nurko= Graph(6) 
 nurko.graph =[[0, 1, 2, 0, 0, 0],
                [1, 0, 0, 0, 3, 0],
@@ -51,6 +51,8 @@ nurko.graph =[[0, 1, 2, 0, 0, 0],
 
 nurko.dijkstra(0)  
 
+
+#second one  we did
 nur= Graph(6)
 nur.graph = [[0 , 2, 0, 4, 1, 0],
              [2 , 0, 2, 1, 0, 0],
